@@ -1,0 +1,3 @@
+/* I don't know what to do about this yet 
+*  I think we will need a bunch of statements to create the tables if they don't already exist and then maybe statemements to populate the database idk...
+*/
